@@ -392,7 +392,9 @@ of mappings for \emph{retinitis pigmentosa}, \emph{code-rod dystrophy} and \emph
 Congenital Amaurosis} subtypes. Over 65k hypothetical axioms were
 generated from mappings, of which 11,800 were interpreted as
 equivalence axioms, allowing the safe merging of multiple duplicate
-classes across ontologies. Evaluation of these are ongoing.
+classes across ontologies.
+
+Our next steps are to perform a full evaluation of these results.
 
 Figure \ref{fig:graph} shows an example of how a module has been
 resolved.
@@ -471,16 +473,6 @@ merging results with other combined disease resources such as MedGen
 and EFO\cite{malone2010modeling}. Additionally, we apply on other
 domains such as anatomy and compare to gold standards such as Uberon.
 
-\subsection{Algorithm extensions and other Applications}
-
-Our current implementation was designed for the special case of
-translating mappings into simple OWL axioms of either the SubClass or
-Equivalence type. For other domains, richer OWL constructs would be
-useful (for example, existential restrictions, to represent
-relationships to members of classes, e.g. partOf). The general
-approach can be applied here, but the main challenge will be the
-expansion of the search space, requiring more sophisticated approaches
-to prune and explore, e.g. MCMC.
 
 
 
