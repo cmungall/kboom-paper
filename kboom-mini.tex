@@ -274,7 +274,7 @@ lead to the current module being splittable into sub-modules.
 \subsection{Ontology structure inference: Approach for $AL^{-}$-ontologies}
 
 We have implemented a procedure for inferring ontology structures
-where the hypothetical axioms consist only of only the
+where the hypothetical axioms consist only of the
 $\sqsubseteq$\ (SubClass) or $\equiv$\ (Equivalence) constructs,
 applied between two named classes $C_i, C_j \in C$. Formally:
 
@@ -292,7 +292,7 @@ classes $c,d$ in a mapping, there are only four possibilities: $c \sqsubset d$, 
 limitation also allows for the extraction of smaller modules.
 
 For the ontology mapping use case, we also assume an additional
-logical constraint in the form of \emph{AllDistiguishableFrom}
+logical constraint in the form of \emph{AllDistinguishableFrom}
 axioms. Here we assign each class in the ontology to a \emph{source},
 and we constrain such that there are no equivalent pairs of classes
 within a source.
@@ -386,8 +386,7 @@ We created a GitHub repository for the disease use
 case\footnote{https://github.com/monarch-initiative/monarch-disease-ontology/}
 containing both the rules to generate hypothetical axioms from
 pre-defined mappings and the generated ontology. Our inputs are DOID,
-OMIM labels, Orphanet, MESH, MEDIC, OMIA, GARD labels and DECIPHER
-labels. The largest cluster we
+OMIM labels, Orphanet, MESH, MEDIC, OMIA, GARD and DECIPHER (with some only contributing labels). The largest cluster we
 have observed has 184 classes, constructed from a highly connected set
 of mappings for \emph{retinitis pigmentosa}, \emph{code-rod dystrophy} and \emph{Leber
 Congenital Amaurosis} subtypes. Over 65k hypothetical axioms were
@@ -403,7 +402,7 @@ resolved.
 %----------------------------------------
 \begin{figure}
 \center
-\includegraphics[width=7cm]{amyloidosis}
+\includegraphics[width=8cm]{amyloidosis}
 \caption{Module resolution graph exported by kBOOM; equivalence=red,
   subclass=blue, dashed=supplied mapping. Prior probabilities written
   as edge labels (thick lines are more probable). Enclosing boxes
@@ -417,7 +416,7 @@ resolved.
 When we assign prior probabilities, we assume a low error rate in
 source-provided mappings, and thus for larger modules these are rarely
 rejected, even if it leads to an overall more probable structure (due
-to the greedy selection procedure). As a pre-processing step step we
+to the greedy selection procedure). As a pre-processing step we
 take large modules and iteratively test removal of axioms to determine
 if the module can be broken into semantically distinct submodules, which
 can sometimes detect incorrect mappings (e.g. \footnote{https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/134}). We
