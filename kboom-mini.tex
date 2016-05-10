@@ -97,10 +97,10 @@ of vocabularies into a consistent and coherent whole.
 Ontologies provide a cohesive representation of some knowledge domain,
 such as human anatomy or human disorders. One of the
 characteristic features of an ontology is that relationships between
-elements have precise logical interpretations, given by the Web
+elements have precise logical interpretations, usually expressed in the Web
 Ontology Language (OWL). For some domains, such as cellular biology,
 we have consensus reference ontologies such as the Gene Ontology, with
-broad and deep coverage of the domain. In other areas (for example,
+broad and deep coverage of the domain. In other areas, such as
 diseases) there are multiple ontologies and databases with distinct
 perspectives and overlapping content. Here no single ontology provides
 the complete picture, so we would like to weave these together into a
@@ -157,12 +157,11 @@ diseases in Online Mendelian Inheritance in Man
 (OMIM)\cite{amberger2015}. Conversely, OMIM provides largely a flat
 list without a hierarchy, and typically only covers disorders with genetic
 etiology. Orphanet\cite{rath2012} has an emphasis on rare disease, and
-employs radically different classification from DOID. When previous
+employs different classification criteria from DOID. When previous
 attempts have been made to unify these, the results are frequently
-fragmentary. For example, MedGen\cite{coordinators2015database} includes OMIM and Orphanet, but many
+incomplete. For example, MedGen\cite{coordinators2015database} includes OMIM and Orphanet, but many
 of the entries, such as that for \emph{Hyperekplexia hereditary} lack
-a classification. We therefore decided that this area was in need of
-an automated approach to ontology merging.
+a classification. Here we explore an ontology merging strategy as one possible solution to this problem.
 
 \section{Methods}
 
