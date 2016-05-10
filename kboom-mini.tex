@@ -63,18 +63,19 @@ or anatomy is to weave together existing knowledge sources (databases,
 vocabularies and ontologies) into single cohesive whole. A first step
 in this process is to generate \emph{mappings} between the elements of
 these different sources. There are a number of well-known techniques
-for generating mappings, both manual and automatic. Sometimes mappings
-are seen as an end in themselves, with the sources remaining in a
-loosely connected state. However, if we want to take the next step and
-use the mappings to weave together the different sources into a
-cohesive reference ontology, then we need to translate the mappings
-into precise logical relationships. This will allow us to safely merge
-equivalent concepts, creating a unified ontology. This translation is
-a non-trivial step, as each mapping can be interpreted as multiple
-different logical relationships, with each interpretation affecting
-the likelihood of the others. There is a lack of automated methods to
-assist with this last step; this resolution is typically performed by
-expert ontologists.
+for generating mappings (also known as \emph{ontology alignemnt}),
+both manual and automatic\cite{otero2015ontology}. Sometimes mappings are seen as an end in
+themselves, with the sources remaining in a loosely connected
+state. However, if we want to take the next step and use the mappings
+to weave together the different sources into a cohesive reference
+ontology, then we need to translate the mappings into precise logical
+relationships. This will allow us to safely merge equivalent concepts,
+creating a unified ontology. This translation is a non-trivial step,
+as each mapping can be interpreted as multiple different logical
+relationships, with each interpretation affecting the likelihood of
+the others. There is a lack of automated methods to assist with this
+last step; this resolution is typically performed by expert
+ontologists.
 
 Here we describe an ontology construction technique that takes
 two or more ontologies linked by hypothetical axioms, and estimates
