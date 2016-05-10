@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 12:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -518,6 +518,12 @@ Overfull \hbox (13.0748pt too wide) in paragraph at lines 405--409
  []
 
 
+Underfull \hbox (badness 1048) in paragraph at lines 409--409
+\OT1/ptm/m/n/8 configuration. equivalence=red, subclass=blue, with prior probab
+ilities
+ []
+
+
 Underfull \hbox (badness 2042) in paragraph at lines 460--470
 \OT1/ptm/m/n/9 There are a number of probabilistic approaches to ontology
  []
@@ -544,14 +550,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--51
 []\OT1/ptm/m/n/9 Ana Rath, Annie Olry, Ferdinand Dhombres, et al.
  []
 
-)
-Extra height:0.0pt when 639.91664pt
-(2)Left:639.91664pt Right:635.59741pt Output:639.91664pt
-- LAST -
-Extra skip:0.0pt
-Left:639.91664pt
-Right:635.59741pt
-Output:639.91664pt
 
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
@@ -565,7 +563,57 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
  []
 
-[4 <./amyloidosis.png>] (./kboom-mini.aux)
+[4 <./amyloidosis.png>])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:10.0pt when 16.2987pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:10.0pt when 17.2987pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:10.0pt when 18.2987pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:10.0pt when 19.2987pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:10.0pt when 20.2987pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:0.0pt when 21.2987pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+(2)Left:21.2987pt Right:10.0pt Output:21.2987pt
+- LAST -
+Extra skip:0.0pt
+Left:21.2987pt
+Right:10.0pt
+Output:21.2987pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (261.0pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Overfull \vbox (1.0pt too high) has occurred while \output is active []
+
+ [5
+
+]
+(./kboom-mini.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -574,11 +622,11 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  3522 strings out of 495028
  45567 string characters out of 6181473
- 122031 words of memory out of 5000000
+ 112031 words of memory out of 5000000
  6617 multiletter control sequences out of 15000+600000
  50544 words of font info for 109 fonts, out of 8000000 for 9000
  18 hyphenation exceptions out of 8191
- 38i,13n,28p,945b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,13n,28p,945b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/opt/local/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</opt/local/share
 /texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb></opt/local/share
 /texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></opt/local/share/
@@ -598,10 +646,10 @@ mf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/local/share/texmf-texlive/
 fonts/type1/urw/helvetic/uhvro8a.pfb></opt/local/share/texmf-texlive/fonts/type
 1/urw/times/utmb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on kboom-mini.pdf (4 pages, 383206 bytes).
+Output written on kboom-mini.pdf (5 pages, 383783 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
