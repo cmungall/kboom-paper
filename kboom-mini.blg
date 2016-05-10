@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2014/MacPorts 2014_1)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: kboom-mini.aux
+The style file: plain.bst
+Database file #1: kboom-mini.bib
+You've used 7 entries,
+            2118 wiz_defined-function locations,
+            549 strings with 5500 characters,
+and the built_in function-call counts, 2853 in all, are:
+= -- 292
+> -- 135
+< -- 2
++ -- 53
+- -- 46
+* -- 216
+:= -- 462
+add.period$ -- 21
+call.type$ -- 7
+change.case$ -- 40
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 104
+empty$ -- 207
+format.name$ -- 46
+if$ -- 599
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 7
+newline$ -- 38
+num.names$ -- 14
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 33
+quote$ -- 0
+skip$ -- 85
+stack$ -- 0
+substring$ -- 220
+swap$ -- 31
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 0
+while$ -- 29
+width$ -- 8
+write$ -- 80

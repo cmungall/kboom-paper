@@ -1,0 +1,17 @@
+From this we can construct a symmetric edge representation $E$ of $A^P$:
+
+% Iverson notation, square brackets denote a function that yields true if size of set > 0
+\begin{equation}
+E_{ij} = [ C_i \sqsubseteq C_j] [ C_j \sqsubseteq C_i ]
+\end{equation}
+
+This yields 4 possibilities for any edge pair:
+
+\begin{itemize}
+\item[] $E_{ij} = 01$ if $C_i \sqsubset C_j$ aka \emph{Proper SubClassOf}, i.e. $C_i \sqsubseteq C_j, C_j \not\sqsubseteq C_i$
+\item[] $E_{ij} = 10$ if $C_i \sqsupset C_j$ aka \emph{Proper SuperClassOf}, i.e.  $C_j \sqsubseteq C_i, C_i \not\sqsubseteq C_j$
+\item[] $E_{ij} = 11$ if $C_i \equiv C_j$ aka \emph{EquivalentTo} i.e. $C_i \sqsubseteq C_j, C_j \sqsubseteq C_i$
+\item[] $E_{ij} = 00$ if $C_i \parallel C_j$ i.e. $C_i \not\sqsubseteq C_j, C_i \not\sqsubseteq C_j$
+\end{itemize}
+
+We can rewrite \eqnref{JointLikelihood} replacing $A^P$ with $E$.

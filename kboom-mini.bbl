@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{amberger2015}
+Joanna~S Amberger, Carol~A Bocchini, Fran{\c{c}}ois Schiettecatte, et~al.
+\newblock {OMIM. org: Online Mendelian Inheritance in Man
+  (OMIM{\textregistered}), an online catalog of human genes and genetic
+  disorders}.
+\newblock {\em Nucleic acids research}, 43(D1):D789--D798, 2015.
+
+\bibitem{coordinators2015database}
+NCBI~Resource Coordinators.
+\newblock Database resources of the national center for biotechnology
+  information.
+\newblock {\em Nucleic acids research}, 43(Database issue):D6, 2015.
+
+\bibitem{Kibbe2014}
+Warren~A Kibbe, Cesar Arze, Victor Felix, et~al.
+\newblock {Disease Ontology 2015 update}.
+\newblock {\em Nucleic acids research}, pages gku1011--, oct 2014.
+
+\bibitem{malone2010modeling}
+James Malone, Ele Holloway, Tomasz Adamusiak, et~al.
+\newblock Modeling sample variables with an experimental factor ontology.
+\newblock {\em Bioinformatics}, 26(8):1112--1118, 2010.
+
+\bibitem{Mitra2005}
+Prasenjit Mitra, Natasha~F. Noy, and Anuj~Rattan Jaiswal.
+\newblock {OMEN: A probabilistic ontology mapping tool}.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, 3729
+  LNCS:537--547, 2005.
+
+\bibitem{Mungall2014}
+C.~J. Mungall, H.~Dietze, and D.~Osumi-Sutherland.
+\newblock {Use of OWL within the Gene Ontology}.
+\newblock In {\em Proceedings of the 11th International Workshop on OWL:
+  Experiences and Directions (OWLED 2014)}, pages 25--36, Riva del Garda,
+  Italy, October 17-18, 2014, oct 2014.
+
+\bibitem{rath2012}
+Ana Rath, Annie Olry, Ferdinand Dhombres, et~al.
+\newblock Representation of rare diseases in health information systems: the
+  orphanet approach to serve a wide range of end users.
+\newblock {\em Human mutation}, 33(5):803--808, 2012.
+
+\end{thebibliography}
