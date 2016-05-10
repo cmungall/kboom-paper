@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 12:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -375,59 +375,44 @@ Underfull \hbox (badness 10000) detected at line 57
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 59.
 
-Underfull \hbox (badness 1097) in paragraph at lines 61--78
-\OT1/ptm/m/n/9 A first step in this process is to generate \OT1/ptm/m/it/9 mapp
-ings \OT1/ptm/m/n/9 between
- []
-
-
-Underfull \hbox (badness 1721) in paragraph at lines 61--78
-\OT1/ptm/m/n/9 if we want to take the next step and use the mappings to
- []
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 79--89
+Underfull \hbox (badness 1968) in paragraph at lines 80--90
 \OT1/ptm/m/n/9 two or more ontologies linked by hypothetical axioms, and
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 79--89
+Underfull \hbox (badness 3792) in paragraph at lines 80--90
 \OT1/ptm/m/n/9 axioms can themselves be derived from semantically loose
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 79--89
+Underfull \hbox (badness 5878) in paragraph at lines 80--90
 \OT1/ptm/m/n/9 mappings. The method combines deductive reasoning and
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 79--89
+Underfull \hbox (badness 1112) in paragraph at lines 80--90
 \OT1/ptm/m/n/9 probabilistic inference and is called Bayesian OWL Ontology
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 <mapping-example.pdf, id=1, 626.34pt x 404.51125pt>
 File: mapping-example.pdf Graphic file (type pdf)
  <use mapping-example.pdf>
-Package pdftex.def Info: mapping-example.pdf used on input line 121.
+Package pdftex.def Info: mapping-example.pdf used on input line 122.
 (pdftex.def)             Requested size: 213.39566pt x 137.81592pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
 
-Underfull \hbox (badness 1087) in paragraph at lines 139--149
+Underfull \hbox (badness 1087) in paragraph at lines 140--150
 \OT1/ptm/m/n/9 that assists a biocurator in merging ontologies. The kBOOM
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 150--166
+Underfull \hbox (badness 3895) in paragraph at lines 151--166
 \OT1/ptm/m/n/9 into the Monarch Disease Ontology (MonDO), because no
  []
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 150--166
+Underfull \hbox (badness 3260) in paragraph at lines 151--166
 \OT1/ptm/m/n/9 one single source provides a comprehensive picture of the
  []
 
@@ -446,13 +431,13 @@ Underfull \hbox (badness 1163) in paragraph at lines 181--182
 
 
 Underfull \hbox (badness 6927) in paragraph at lines 201--202
- \OT1/ptm/m/it/9 3.1.1 Probabilistic Ontologies[] \OT1/ptm/m/n/9 The input to t
+ \OT1/ptm/m/it/9 2.1.1 Probabilistic Ontologies[] \OT1/ptm/m/n/9 The input to t
 he structure
  []
 
 
 Underfull \hbox (badness 1931) in paragraph at lines 244--250
- \OT1/ptm/m/it/9 3.1.2 Factorization via module extraction[] \OT1/ptm/m/n/9 A \
+ \OT1/ptm/m/it/9 2.1.2 Factorization via module extraction[] \OT1/ptm/m/n/9 A \
 OT1/ptm/m/it/9 modularization
  []
 
@@ -463,17 +448,17 @@ ules. A number of different
  []
 
 
-Overfull \hbox (1.96869pt too wide) in paragraph at lines 261--267
- \OT1/ptm/m/it/9 3.1.3 Greedy selection search procedure[] \OT1/ptm/m/n/9 Even 
+Overfull \hbox (1.96869pt too wide) in paragraph at lines 261--268
+ \OT1/ptm/m/it/9 2.1.3 Greedy selection search procedure[] \OT1/ptm/m/n/9 Even 
 after factorization,
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 267.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 268.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <8> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 267.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 268.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <8> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 267.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 268.
 
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
@@ -490,26 +475,26 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [2 <./mapping-example.pdf>]
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 278.
+(Font)              size <7> substituted on input line 274.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.5> not available
-(Font)              size <7> substituted on input line 278.
+(Font)              size <7> substituted on input line 274.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 278.
+(Font)              size <7> substituted on input line 274.
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 310--314
- \OT1/ptm/m/it/9 3.2.1 Extracting Locally Independent Modules for $\OML/cmm/m/i
+Underfull \hbox (badness 1072) in paragraph at lines 306--310
+ \OT1/ptm/m/it/9 2.2.1 Extracting Locally Independent Modules for $\OML/cmm/m/i
 t/9 AL[]$[] \OT1/ptm/m/n/9 By
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 349.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 345.
 
-Underfull \hbox (badness 1540) in paragraph at lines 389--403
+Underfull \hbox (badness 1540) in paragraph at lines 385--397
 []\OT1/ptm/m/n/9 We created a GitHub repository for the disease use case$[]$
  []
 
@@ -525,10 +510,10 @@ Overfull \vbox (1.0pt too high) has occurred while \output is active []
 <amyloidosis.png, id=39, 1247.66125pt x 640.3925pt>
 File: amyloidosis.png Graphic file (type png)
  <use amyloidosis.png>
-Package pdftex.def Info: amyloidosis.png used on input line 410.
+Package pdftex.def Info: amyloidosis.png used on input line 406.
 (pdftex.def)             Requested size: 199.16928pt x 102.2206pt.
 
-Underfull \hbox (badness 2042) in paragraph at lines 465--475
+Underfull \hbox (badness 2042) in paragraph at lines 461--471
 \OT1/ptm/m/n/9 There are a number of probabilistic approaches to ontology
  []
 
@@ -550,23 +535,18 @@ Underfull \hbox (badness 1112) in paragraph at lines 27--32
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--45
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
 []\OT1/ptm/m/n/9 Ana Rath, Annie Olry, Ferdinand Dhombres, et al.
  []
 
 )
-Extra height:11.59741pt when 633.49919pt
-Extra height:11.59741pt when 634.49919pt
-Extra height:11.59741pt when 635.49919pt
-Extra height:11.59741pt when 636.49919pt
-Extra height:0.0pt when 637.49919pt
-(2)Left:637.49919pt Right:638.59744pt Output:637.49919pt
-(2)Left:638.59744pt Right:638.59744pt Output:638.59744pt
+Extra height:0.0pt when 587.49919pt
+(2)Left:587.49919pt Right:583.04587pt Output:587.49919pt
 - LAST -
 Extra skip:0.0pt
-Left:638.59744pt
-Right:638.59744pt
-Output:638.59744pt
+Left:587.49919pt
+Right:583.04587pt
+Output:587.49919pt
 
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
@@ -587,10 +567,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 3517 strings out of 495028
- 45475 string characters out of 6181473
- 123016 words of memory out of 5000000
- 6612 multiletter control sequences out of 15000+600000
+ 3522 strings out of 495028
+ 45567 string characters out of 6181473
+ 122031 words of memory out of 5000000
+ 6617 multiletter control sequences out of 15000+600000
  50544 words of font info for 109 fonts, out of 8000000 for 9000
  18 hyphenation exceptions out of 8191
  38i,13n,28p,945b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -613,7 +593,7 @@ mf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/local/share/texmf-texlive/
 fonts/type1/urw/helvetic/uhvro8a.pfb></opt/local/share/texmf-texlive/fonts/type
 1/urw/times/utmb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on kboom-mini.pdf (4 pages, 395891 bytes).
+Output written on kboom-mini.pdf (4 pages, 395348 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream

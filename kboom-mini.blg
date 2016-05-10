@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: kboom-mini.aux
 The style file: plain.bst
 Database file #1: kboom-mini.bib
-You've used 7 entries,
+You've used 8 entries,
             2118 wiz_defined-function locations,
-            549 strings with 5500 characters,
-and the built_in function-call counts, 2853 in all, are:
-= -- 292
-> -- 135
+            556 strings with 5708 characters,
+and the built_in function-call counts, 3217 in all, are:
+= -- 329
+> -- 153
 < -- 2
-+ -- 53
-- -- 46
-* -- 216
-:= -- 462
-add.period$ -- 21
-call.type$ -- 7
-change.case$ -- 40
++ -- 60
+- -- 52
+* -- 247
+:= -- 523
+add.period$ -- 24
+call.type$ -- 8
+change.case$ -- 46
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 104
-empty$ -- 207
-format.name$ -- 46
-if$ -- 599
+cite$ -- 8
+duplicate$ -- 115
+empty$ -- 234
+format.name$ -- 52
+if$ -- 672
 int.to.chr$ -- 0
-int.to.str$ -- 7
-missing$ -- 7
-newline$ -- 38
-num.names$ -- 14
-pop$ -- 33
+int.to.str$ -- 8
+missing$ -- 8
+newline$ -- 43
+num.names$ -- 16
+pop$ -- 37
 preamble$ -- 1
-purify$ -- 33
+purify$ -- 38
 quote$ -- 0
-skip$ -- 85
+skip$ -- 92
 stack$ -- 0
-substring$ -- 220
-swap$ -- 31
+substring$ -- 250
+swap$ -- 32
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 28
+type$ -- 32
 warning$ -- 0
-while$ -- 29
-width$ -- 8
-write$ -- 80
+while$ -- 33
+width$ -- 9
+write$ -- 91
