@@ -152,13 +152,13 @@ We are applying kBOOM to merge a mixture of ontologies, databases and
 vocabularies which describe diseases or disorders, into the Monarch
 Disease Ontology (MonDO), because no one single
 source provides a comprehensive picture of the disease space. For
-example, the Disease Ontology (DOID)\cite{Kibbe2014} provides a broad
+example, the Disease Ontology (DO)\cite{Kibbe2014} provides a broad
 classification of disease types, but does not enumerate all the
 diseases in Online Mendelian Inheritance in Man
 (OMIM)\cite{amberger2015}. Conversely, OMIM provides largely a flat
 list without a hierarchy, and typically only covers disorders with genetic
 etiology. Orphanet\cite{rath2012} has an emphasis on rare disease, and
-employs different classification criteria from DOID. When previous
+employs different classification criteria from DO. When previous
 attempts have been made to unify these, the results are frequently
 incomplete. For example, MedGen\cite{coordinators2015database} includes OMIM and Orphanet, but many
 of the entries, such as that for \emph{Hyperekplexia hereditary} lack
@@ -385,7 +385,7 @@ and currently only implements the special case for $AL^{-}$.
 We created a GitHub repository for the disease use
 case\footnote{https://github.com/monarch-initiative/monarch-disease-ontology/}
 containing both the rules to generate hypothetical axioms from
-pre-defined mappings and the generated ontology. Our inputs are DOID,
+pre-defined mappings and the generated ontology. Our inputs are DO,
 OMIM labels, Orphanet, MESH, MEDIC, OMIA, GARD and DECIPHER (with some only contributing labels). The largest cluster we
 have observed has 184 classes, constructed from a highly connected set
 of mappings for \emph{retinitis pigmentosa}, \emph{code-rod dystrophy} and \emph{Leber
@@ -424,9 +424,9 @@ plan to fold this into the probabilistic approach.
 
 
 %example of resolution of erroneous mapping
-% incorrect mapping of DOID to OMIM:607101 ! Deafness, Autosomal Recessive 30
+% incorrect mapping of DO to OMIM:607101 ! Deafness, Autosomal Recessive 30
 %3272486 [main] INFO  org.monarchinitiative.owlbag.compute.ProbabilisticGraphCalculator  -   CLIQUE MEMBER:OMIM_609706 Deafness, Autosomal Recessive 53
-%3272486 [main] INFO  org.monarchinitiative.owlbag.compute.ProbabilisticGraphCalculator  -   CLIQUE MEMBER:DOID_9261 nasopharynx carcinoma
+%3272486 [main] INFO  org.monarchinitiative.owlbag.compute.ProbabilisticGraphCalculator  -   CLIQUE MEMBER:DO_9261 nasopharynx carcinoma
 %3272486 [main] INFO  org.monarchinitiative.owlbag.compute.ProbabilisticGraphCalculator  -   CLIQUE MEMBER:OMIM_601369 Deafness, Autosomal Dominant 9
 %3272486 [main] INFO  org.monarchinitiative.owlbag.compute.ProbabilisticGraphCalculator  -   CLIQUE MEMBER:OMIM_602459 Deafness, Autosomal Dominant 15
 
