@@ -258,7 +258,8 @@ here, approaches may involve Bayes networks or factor graphs.
 \subsubsection{Greedy selection search procedure}
 
 Even after factorization, the number of possibilities may still be
-prohibitive.  In order to further reduce the search space, we apply a
+prohibitive (a module size of 100 nodes is not atypical, which has $4^100$ configurations).
+In order to further reduce the search space, we apply a
 greedy approach. Here, when searching for solutions for any module
 $O_k$ we iteratively take the axiom for $H_k$ with the highest
 probability and assume it to be true. We repeat this until the number
