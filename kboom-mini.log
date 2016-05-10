@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 12:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -507,11 +507,16 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 Overfull \vbox (1.0pt too high) has occurred while \output is active []
 
  [3]
-<amyloidosis.png, id=39, 1247.66125pt x 640.3925pt>
+<amyloidosis.png, id=39, 770.88pt x 584.1825pt>
 File: amyloidosis.png Graphic file (type png)
  <use amyloidosis.png>
 Package pdftex.def Info: amyloidosis.png used on input line 405.
-(pdftex.def)             Requested size: 227.62204pt x 116.82912pt.
+(pdftex.def)             Requested size: 256.0748pt x 194.0555pt.
+
+Overfull \hbox (13.0748pt too wide) in paragraph at lines 405--409
+ [] 
+ []
+
 
 Underfull \hbox (badness 2042) in paragraph at lines 460--470
 \OT1/ptm/m/n/9 There are a number of probabilistic approaches to ontology
@@ -540,14 +545,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--51
  []
 
 )
-Extra height:22.59741pt when 600.80345pt
-Extra height:0.0pt when 601.80345pt
-(2)Left:601.80345pt Right:591.59744pt Output:601.80345pt
+Extra height:0.0pt when 639.91664pt
+(2)Left:639.91664pt Right:635.59741pt Output:639.91664pt
 - LAST -
 Extra skip:0.0pt
-Left:601.80345pt
-Right:591.59744pt
-Output:601.80345pt
+Left:639.91664pt
+Right:635.59741pt
+Output:639.91664pt
 
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
@@ -594,7 +598,7 @@ mf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/local/share/texmf-texlive/
 fonts/type1/urw/helvetic/uhvro8a.pfb></opt/local/share/texmf-texlive/fonts/type
 1/urw/times/utmb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on kboom-mini.pdf (4 pages, 395365 bytes).
+Output written on kboom-mini.pdf (4 pages, 383206 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream

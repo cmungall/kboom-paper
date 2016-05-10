@@ -1,28 +1,24 @@
 digraph cliquegraph {
-subgraph cluster_Orphanet_439254 {Orphanet_439254 [ label="Orphanet_439254 ITM2B
-amyloidosis" ];}
+subgraph cluster_Orphanet_439254 {Orphanet_439254 [ style="filled" fillcolor="yellow" label="Orphanet:439254
+ITM2B amyloidosis" ];}
 
-subgraph cluster_Orphanet_97345 {Orphanet_97345 [ label="Orphanet_97345 ABri
-amyloidosis" ];
-MESH_C538208 [ label="MESH_C538208 Dementia,
-familial
-British" ];
-OMIM_176500 [ label="OMIM_176500 Cerebral
-Amyloid
-Angiopathy,
-Itm2B-Related,
-1" ];}
+subgraph cluster_Orphanet_97345 {Orphanet_97345 [ style="filled" fillcolor="yellow" label="Orphanet:97345
+ABri amyloidosis" ];
+MESH_C538208 [ label="MESH:C538208
+Dementia,
+familial British" ];
+OMIM_176500 [ style="filled" fillcolor="lightgray" label="OMIM:176500
+CA Angiopathy,
+ITM2B-Related,1" ];}
 
-subgraph cluster_MESH_C538209 {MESH_C538209 [ label="MESH_C538209 Dementia,
-familial
-Danish" ];
-OMIM_117300 [ label="OMIM_117300 Cerebral
-Amyloid
-Angiopathy,
-Itm2B-Related,
-2" ];
-Orphanet_97346 [ label="Orphanet_97346 ADan
-amyloidosis" ];}
+subgraph cluster_MESH_C538209 {MESH_C538209 [ label="MESH:C538209
+Dementia,
+familial Danish" ];
+OMIM_117300 [ style="filled" fillcolor="lightgray" label="OMIM:117300
+CA Angiopathy,
+ITM2B-Related,2" ];
+Orphanet_97346 [ style="filled" fillcolor="yellow" label="Orphanet:97346
+ADan amyloidosis" ];}
 Orphanet_97345 -> Orphanet_439254 [ arrowhead = normal, penwidth=1, color=black, label="", style=solid]
 
 Orphanet_97346 -> Orphanet_439254 [ arrowhead = normal, penwidth=1, color=black, label="", style=solid]
@@ -41,19 +37,19 @@ MESH_C538208 -> Orphanet_97345 [ arrowhead = none, penwidth=1, color=blue, label
 MESH_C538209 -> Orphanet_97346 [ arrowhead = none, penwidth=1, color=blue, label="", style=dotted]
 
 OMIM_176500 -> Orphanet_97345 [ arrowhead = none, penwidth=1, color=blue, label="", style=dotted]
-OMIM_117300 -> Orphanet_97346 [ arrowhead = ediamond, penwidth=4, color=red, label="0.375", style=solid, arrowtail=ediamond, dir=both]
+OMIM_117300 -> Orphanet_97346 [ arrowhead = ediamond, penwidth=4, color=red, label="0.37", style=solid, arrowtail=ediamond, dir=both]
 
 MESH_C538209 -> OMIM_117300 [ arrowhead = ediamond, penwidth=9, color=red, label="0.88", style=solid, arrowtail=ediamond, dir=both]
 
-OMIM_117300 -> Orphanet_439254 [ arrowhead = normal, penwidth=7, color=blue, label="0.6885245901639344", style=solid]
+OMIM_117300 -> Orphanet_439254 [ arrowhead = normal, penwidth=7, color=blue, label="0.68", style=solid]
 
-MESH_C538208 -> Orphanet_97345 [ arrowhead = ediamond, penwidth=5, color=red, label="0.4444444444444444", style=solid, arrowtail=ediamond, dir=both]
+MESH_C538208 -> Orphanet_97345 [ arrowhead = ediamond, penwidth=5, color=red, label="0.44", style=solid, arrowtail=ediamond, dir=both]
 
-MESH_C538209 -> Orphanet_97346 [ arrowhead = ediamond, penwidth=5, color=red, label="0.4444444444444444", style=solid, arrowtail=ediamond, dir=both]
+MESH_C538209 -> Orphanet_97346 [ arrowhead = ediamond, penwidth=5, color=red, label="0.44", style=solid, arrowtail=ediamond, dir=both]
 
 MESH_C538208 -> OMIM_176500 [ arrowhead = ediamond, penwidth=9, color=red, label="0.88", style=solid, arrowtail=ediamond, dir=both]
 
-OMIM_176500 -> Orphanet_97345 [ arrowhead = ediamond, penwidth=4, color=red, label="0.375", style=solid, arrowtail=ediamond, dir=both]
+OMIM_176500 -> Orphanet_97345 [ arrowhead = ediamond, penwidth=4, color=red, label="0.37", style=solid, arrowtail=ediamond, dir=both]
 
-OMIM_176500 -> Orphanet_439254 [ arrowhead = normal, penwidth=7, color=blue, label="0.6885245901639344", style=solid]
+OMIM_176500 -> Orphanet_439254 [ arrowhead = normal, penwidth=7, color=blue, label="0.69", style=solid]
 }
