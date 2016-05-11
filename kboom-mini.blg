@@ -3,44 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: kboom-mini.aux
 The style file: plain.bst
 Database file #1: kboom-mini.bib
+Warning--empty booktitle in vasant2014ordo
 You've used 8 entries,
             2118 wiz_defined-function locations,
-            556 strings with 5708 characters,
-and the built_in function-call counts, 3217 in all, are:
-= -- 329
-> -- 153
+            550 strings with 5720 characters,
+and the built_in function-call counts, 3306 in all, are:
+= -- 326
+> -- 178
 < -- 2
-+ -- 60
-- -- 52
-* -- 247
-:= -- 523
++ -- 70
+- -- 62
+* -- 254
+:= -- 542
 add.period$ -- 24
 call.type$ -- 8
-change.case$ -- 46
+change.case$ -- 52
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 115
-empty$ -- 234
-format.name$ -- 52
-if$ -- 672
+cite$ -- 9
+duplicate$ -- 117
+empty$ -- 233
+format.name$ -- 62
+if$ -- 685
 int.to.chr$ -- 0
 int.to.str$ -- 8
 missing$ -- 8
 newline$ -- 43
 num.names$ -- 16
-pop$ -- 37
+pop$ -- 50
 preamble$ -- 1
-purify$ -- 38
+purify$ -- 44
 quote$ -- 0
-skip$ -- 92
+skip$ -- 91
 stack$ -- 0
-substring$ -- 250
+substring$ -- 225
 swap$ -- 32
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 32
-warning$ -- 0
-while$ -- 33
+warning$ -- 1
+while$ -- 31
 width$ -- 9
-write$ -- 91
+write$ -- 89
+(There was 1 warning)

@@ -43,10 +43,11 @@ Lorena Otero-Cerdeira, Francisco~J Rodr{\'\i}guez-Mart{\'\i}nez, and Alma
 \newblock Ontology matching: A literature review.
 \newblock {\em Expert Systems with Applications}, 42(2):949--971, 2015.
 
-\bibitem{rath2012}
-Ana Rath, Annie Olry, Ferdinand Dhombres, et~al.
-\newblock Representation of rare diseases in health information systems: the
-  orphanet approach to serve a wide range of end users.
-\newblock {\em Human mutation}, 33(5):803--808, 2012.
+\bibitem{vasant2014ordo}
+Drashtti Vasant, Laetitia Chanas, James Malone, Marc Hanauer, Annie Olry, Simon
+  Jupp, Peter~N Robinson, Helen Parkinson, and Ana Rath.
+\newblock Ordo: An ontology connecting rare disease, epidemiology and genetic
+  data.
+\newblock 2014.
 
 \end{thebibliography}

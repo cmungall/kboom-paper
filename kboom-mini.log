@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 12:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -407,13 +407,13 @@ Underfull \hbox (badness 1087) in paragraph at lines 140--150
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 151--166
-\OT1/ptm/m/n/9 into the Monarch Disease Ontology (MonDO), because no
+Underfull \hbox (badness 2165) in paragraph at lines 151--166
+\OT1/ptm/m/n/9 and employs different classification criteria from DO. When
  []
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 151--166
-\OT1/ptm/m/n/9 one single source provides a comprehensive picture of the
+Underfull \hbox (badness 1314) in paragraph at lines 151--166
+\OT1/ptm/m/n/9 are frequently incomplete. For example, MedGen[[]] includes
  []
 
 
@@ -546,11 +546,6 @@ Underfull \hbox (badness 1112) in paragraph at lines 27--32
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
-[]\OT1/ptm/m/n/9 Ana Rath, Annie Olry, Ferdinand Dhombres, et al.
- []
-
-
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
  []
@@ -566,36 +561,36 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [4 <./amyloidosis.png>])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 16.2987pt
+Extra height:10.0pt when 16.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 17.2987pt
+Extra height:10.0pt when 17.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 18.2987pt
+Extra height:10.0pt when 18.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 19.2987pt
+Extra height:10.0pt when 19.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 20.2987pt
+Extra height:10.0pt when 20.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:0.0pt when 21.2987pt
+Extra height:0.0pt when 21.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(2)Left:21.2987pt Right:10.0pt Output:21.2987pt
+(2)Left:21.47421pt Right:10.0pt Output:21.47421pt
 - LAST -
 Extra skip:0.0pt
-Left:21.2987pt
+Left:21.47421pt
 Right:10.0pt
-Output:21.2987pt
+Output:21.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -621,7 +616,7 @@ LaTeX Font Warning: Size substitutions with differences
  ) 
 Here is how much of TeX's memory you used:
  3522 strings out of 495028
- 45567 string characters out of 6181473
+ 45585 string characters out of 6181473
  112031 words of memory out of 5000000
  6617 multiletter control sequences out of 15000+600000
  50544 words of font info for 109 fonts, out of 8000000 for 9000
@@ -646,7 +641,7 @@ mf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/local/share/texmf-texlive/
 fonts/type1/urw/helvetic/uhvro8a.pfb></opt/local/share/texmf-texlive/fonts/type
 1/urw/times/utmb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on kboom-mini.pdf (5 pages, 383783 bytes).
+Output written on kboom-mini.pdf (5 pages, 383800 bytes).
 PDF statistics:
  111 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
