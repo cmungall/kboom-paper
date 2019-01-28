@@ -1,105 +1,99 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_1) (preloaded format=pdflatex 2014.8.3)  10 MAY 2016 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JAN 2019 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **kboom-mini
 (./kboom-mini.tex
-LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 2 languages loaded.
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./my.cls
 
 LaTeX Warning: You have requested document class `my',
                but the document class provides `bioinfo'.
 
 Document Class: bioinfo 2003/02/08 0.1
-(/opt/local/share/texmf-texlive/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 )
-(/opt/local/share/texmf-texlive/tex/latex/crop/crop.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/crop/crop.sty
 Package: crop 2003/05/20 v1.9 crop marks (mf)
 \stockwidth=\dimen102
 \stockheight=\dimen103
-\CROP@index=\count79
+\CROP@index=\count80
 
-(/opt/local/share/texmf-texlive/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(/opt/local/share/texmf-texlive/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 147.
 
-(/opt/local/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/opt/local/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count80
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-(/opt/local/share/texmf-texlive/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/opt/local/share/texmf-texlive/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/opt/local/share/texmf-texlive/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \CROP@offset=\count81
-)
-(/opt/local/share/texmf-texlive/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package crop Info: Local config file crop.cfg used on input line 605.
 
-(/opt/local/share/texmf-texlive/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/local/texlive/2018/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(/opt/local/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip41
 
 For additional information on amsmath, use the `?' option.
-(/opt/local/share/texmf-texlive/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(/opt/local/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen106
 ))
-(/opt/local/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen107
 )
-(/opt/local/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count82
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count83
 \leftroot@=\count84
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count85
 \DOTSCASE@=\count86
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen108
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count87
 \c@MaxMatrixCols=\count88
 \dotsspace@=\muskip10
@@ -120,21 +114,23 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip42
 \multlinetaggap=\skip43
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
-(/opt/local/share/texmf-texlive/tex/latex/tools/array.sty
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
 \col@sep=\dimen115
+\ar@mcellbox=\box28
 \extrarowheight=\dimen116
 \NC@list=\toks22
 \extratabsurround=\skip44
 \backup@length=\skip45
+\ar@cellbox=\box29
 )
-(/opt/local/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/opt/local/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -143,10 +139,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (./flushend.sty
 Package: flushend 1997/10/01
-\@aaa=\box28
-\@ccc=\box29
-\@viper=\box30
-\hold@viper=\box31
+\@aaa=\box30
+\@ccc=\box31
+\@viper=\box32
+\hold@viper=\box33
 \atColsBreak=\toks23
 \@extra@skip=\dimen117
 \@nd@page@rule=\dimen118
@@ -155,8 +151,8 @@ Package: stfloats 1999/10/22
 \@dblbotnum=\count94
 \c@dblbotnumber=\count95
 )
-(/opt/local/share/texmf-texlive/tex/latex/amscls/amsthm.sty
-Package: amsthm 2004/08/06 v2.20
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks24
 \thm@bodyfont=\toks25
 \thm@headfont=\toks26
@@ -166,12 +162,12 @@ Package: amsthm 2004/08/06 v2.20
 \thm@postskip=\skip47
 \thm@headsep=\skip48
 \dth@everypar=\toks29
-) (./chngpage.sty
+)
+(./chngpage.sty
 Package: chngpage 2001/01/31 v1.1b change page layout
 \c@cp@cnt=\count96
 \c@cp@tempcnt=\count97
-)
-(/opt/local/share/texmf-texlive/tex/latex/psnfss/times.sty
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 \c@section=\count98
@@ -188,231 +184,293 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 \belowcaptionskip=\skip53
 \rotdimen=\dimen119
 \tempdime=\dimen120
-\temptbox=\box32
-
-(/opt/local/share/texmf-texlive/tex/latex/natbib/natbib.sty
+\temptbox=\box34
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip54
 \bibsep=\skip55
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count105
 ))
-(/opt/local/share/texmf-texlive/tex/latex/url/url.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
-) (./kboom-mini.aux)
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count106
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip56
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count107
+LaTeX Info: Redefining \checkoddpage on input line 45.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip57
+\skiplinenumber=\skip58
+\skiprule=\skip59
+\skiphlne=\skip60
+\skiptext=\skip61
+\skiplength=\skip62
+\algomargin=\skip63
+\skipalgocfslide=\skip64
+\algowidth=\dimen121
+\inoutsize=\dimen122
+\inoutindent=\dimen123
+\interspacetitleruled=\dimen124
+\interspacealgoruled=\dimen125
+\interspacetitleboxruled=\dimen126
+\algocf@ruledwidth=\skip65
+\algocf@inoutbox=\box35
+\algocf@inputbox=\box36
+\AlCapSkip=\skip66
+\AlCapHSkip=\skip67
+\algoskipindent=\skip68
+\algocf@nlbox=\box37
+\algocf@hangingbox=\box38
+\algocf@untilbox=\box39
+\algocf@skipuntil=\skip69
+\algocf@capbox=\box40
+\algocf@lcaptionbox=\skip70
+\algoheightruledefault=\skip71
+\algoheightrule=\skip72
+\algotitleheightruledefault=\skip73
+\algotitleheightrule=\skip74
+\c@algocfline=\count108
+\c@algocfproc=\count109
+\c@algocf=\count110
+\algocf@algoframe=\box41
+\algocf@algobox=\box42
+)
+(./kboom-mini.aux)
 \openout1 = `kboom-mini.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 36.
 
-(/opt/local/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/opt/local/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen121
-\scratchbox=\box33
-\nofMPsegments=\count107
-\nofMParguments=\count108
+\scratchcounter=\count111
+\scratchdimen=\dimen127
+\scratchbox=\box43
+\nofMPsegments=\count112
+\nofMParguments=\count113
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen122
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen128
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks31
-) (/opt/local/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/opt/local/share/texmf-texlive/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/opt/local/share/texmf-texlive/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/opt/local/share/texmf-texlive/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/opt/local/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/opt/local/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/opt/local/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+(grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/opt/local/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package crop Info: requested driver: `' on input line 35.
-Package crop Info: detected driver: `pdftex' on input line 35.
-Package crop Info: using `pdftex' graphics driver on input line 35.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 57.
+Package crop Info: requested driver: `' on input line 36.
+Package crop Info: detected driver: `pdftex' on input line 36.
+Package crop Info: using `pdftex' graphics driver on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 58.
 
-(/opt/local/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 58.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <9> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 58.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 58.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <19> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 58.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <19> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 58.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 58.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 58.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <16> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 57.
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 57.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 58.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 58.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 57.
+(Font)              size <12> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 57.
+(Font)              size <6> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 57.
+(Font)              size <12> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 57.
+(Font)              size <6> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 57.
+(Font)              size <12> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 57.
+(Font)              size <6> substituted on input line 58.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 57.
-(/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 58.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 57.
+LaTeX Font Info:    Try loading font information for U+msb on input line 58.
 
-(/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Calculating math sizes for size <9.09996> on input line 57.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 58.
 
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.54997> not available
-(Font)              size <5> substituted on input line 57.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.54997> not available
-(Font)              size <5> substituted on input line 57.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.54997> not available
-(Font)              size <5> substituted on input line 57.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9.09996> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 57.
+(Font)              size <7> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.5> not available
-(Font)              size <7> substituted on input line 57.
+(Font)              size <7> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 57.
+(Font)              size <7> substituted on input line 58.
 
 
-Underfull \hbox (badness 10000) detected at line 57
+Underfull \hbox (badness 10000) detected at line 58
 []
  []
 
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 59.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 60.
 
-Underfull \hbox (badness 1968) in paragraph at lines 80--90
+Underfull \hbox (badness 1968) in paragraph at lines 81--91
 \OT1/ptm/m/n/9 two or more ontologies linked by hypothetical axioms, and
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 80--90
+Underfull \hbox (badness 3792) in paragraph at lines 81--91
 \OT1/ptm/m/n/9 axioms can themselves be derived from semantically loose
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 80--90
+Underfull \hbox (badness 5878) in paragraph at lines 81--91
 \OT1/ptm/m/n/9 mappings. The method combines deductive reasoning and
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 80--90
+Underfull \hbox (badness 1112) in paragraph at lines 81--91
 \OT1/ptm/m/n/9 probabilistic inference and is called Bayesian OWL Ontology
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 <mapping-example.pdf, id=1, 626.34pt x 404.51125pt>
 File: mapping-example.pdf Graphic file (type pdf)
- <use mapping-example.pdf>
-Package pdftex.def Info: mapping-example.pdf used on input line 122.
+<use mapping-example.pdf>
+Package pdftex.def Info: mapping-example.pdf  used on input line 123.
 (pdftex.def)             Requested size: 213.39566pt x 137.81592pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 136.
 
-Underfull \hbox (badness 1087) in paragraph at lines 140--150
+Underfull \hbox (badness 1087) in paragraph at lines 141--151
 \OT1/ptm/m/n/9 that assists a biocurator in merging ontologies. The kBOOM
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 151--166
+Underfull \hbox (badness 2165) in paragraph at lines 152--167
 \OT1/ptm/m/n/9 and employs different classification criteria from DO. When
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 151--166
+Underfull \hbox (badness 1314) in paragraph at lines 152--167
 \OT1/ptm/m/n/9 are frequently incomplete. For example, MedGen[[]] includes
  []
 
@@ -421,44 +479,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
 
-{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 1163) in paragraph at lines 181--182
+Underfull \hbox (badness 1163) in paragraph at lines 182--183
 \OT1/ptm/m/n/9 such as lexical approaches, or by using existing curated
  []
 
 
-Underfull \hbox (badness 6927) in paragraph at lines 201--202
+Underfull \hbox (badness 6927) in paragraph at lines 202--203
  \OT1/ptm/m/it/9 2.1.1 Probabilistic Ontologies[] \OT1/ptm/m/n/9 The input to t
 he structure
  []
 
-
-Underfull \hbox (badness 1931) in paragraph at lines 244--250
- \OT1/ptm/m/it/9 2.1.2 Factorization via module extraction[] \OT1/ptm/m/n/9 A \
-OT1/ptm/m/it/9 modularization
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 244--250
-\OT1/ptm/m/n/9 and produce $\OML/cmm/m/it/9 k$ \OT1/ptm/m/n/9 probabilistic mod
-ules. A number of different
- []
-
-
-Overfull \hbox (1.96869pt too wide) in paragraph at lines 261--268
- \OT1/ptm/m/it/9 2.1.3 Greedy selection search procedure[] \OT1/ptm/m/n/9 Even 
-after factorization,
- []
-
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 268.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 235.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <8> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 268.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 235.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <8> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 268.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 235.
 
 Overfull \hbox (261.0pt too wide) has occurred while \output is active
 [][] 
@@ -473,29 +513,75 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
  []
 
 [2 <./mapping-example.pdf>]
+Underfull \hbox (badness 1931) in paragraph at lines 245--251
+ \OT1/ptm/m/it/9 2.1.2 Factorization via module extraction[] \OT1/ptm/m/n/9 A \
+OT1/ptm/m/it/9 modularization
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 245--251
+\OT1/ptm/m/n/9 and produce $\OML/cmm/m/it/9 k$ \OT1/ptm/m/n/9 probabilistic mod
+ules. A number of different
+ []
+
+
+Overfull \hbox (1.96869pt too wide) in paragraph at lines 262--269
+ \OT1/ptm/m/it/9 2.1.3 Greedy selection search procedure[] \OT1/ptm/m/n/9 Even 
+after factorization,
+ []
+
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 274.
+(Font)              size <7> substituted on input line 275.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.5> not available
-(Font)              size <7> substituted on input line 274.
+(Font)              size <7> substituted on input line 275.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 274.
+(Font)              size <7> substituted on input line 275.
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 306--310
+Underfull \hbox (badness 1072) in paragraph at lines 307--311
  \OT1/ptm/m/it/9 2.2.1 Extracting Locally Independent Modules for $\OML/cmm/m/i
 t/9 AL[]$[] \OT1/ptm/m/n/9 By
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 345.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 346.
 
-Underfull \hbox (badness 1540) in paragraph at lines 385--396
+Overfull \hbox (261.0pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Overfull \vbox (1.0pt too high) has occurred while \output is active []
+
+ [3]
+Underfull \hbox (badness 1540) in paragraph at lines 386--397
 []\OT1/ptm/m/n/9 We created a GitHub repository for the disease use case$[]$
+ []
+
+<amyloidosis.pdf, id=39, 770.88pt x 584.1825pt>
+File: amyloidosis.pdf Graphic file (type pdf)
+<use amyloidosis.pdf>
+Package pdftex.def Info: amyloidosis.pdf  used on input line 406.
+(pdftex.def)             Requested size: 256.0748pt x 194.0555pt.
+
+Overfull \hbox (13.0748pt too wide) in paragraph at lines 406--410
+ [] 
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 410--410
+\OT1/ptm/m/n/8 configuration. equivalence=red, subclass=blue, with prior probab
+ilities
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 461--471
+\OT1/ptm/m/n/9 There are a number of probabilistic approaches to ontology
  []
 
 
@@ -506,35 +592,45 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 
 Overfull \vbox (1.0pt too high) has occurred while \output is active []
 
- [3]
-<amyloidosis.png, id=39, 770.88pt x 584.1825pt>
-File: amyloidosis.png Graphic file (type png)
- <use amyloidosis.png>
-Package pdftex.def Info: amyloidosis.png used on input line 405.
-(pdftex.def)             Requested size: 256.0748pt x 194.0555pt.
 
-Overfull \hbox (13.0748pt too wide) in paragraph at lines 405--409
- [] 
+Overfull \hbox (261.0pt too wide) has occurred while \output is active
+[][] 
  []
 
+[4 <./amyloidosis.pdf>]
 
-Underfull \hbox (badness 1048) in paragraph at lines 409--409
-\OT1/ptm/m/n/8 configuration. equivalence=red, subclass=blue, with prior probab
-ilities
- []
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 460--470
-\OT1/ptm/m/n/9 There are a number of probabilistic approaches to ontology
- []
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
+
+
+LaTeX Warning: Command \textquoteleft invalid in math mode on input line 526.
 
 (./kboom-mini.bbl
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 6.
- (/opt/local/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Underfull \hbox (badness 1769) in paragraph at lines 22--25
 []\OT1/ptm/m/n/9 James Malone, Ele Holloway, Tomasz Adamusiak, et al.
@@ -545,55 +641,630 @@ Underfull \hbox (badness 1112) in paragraph at lines 27--32
 \OT1/ptm/m/it/9 in Computer Science (including subseries Lecture Notes in
  []
 
-
-Overfull \hbox (261.0pt too wide) has occurred while \output is active
-[][] 
- []
-
-
-Overfull \vbox (1.0pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (261.0pt too wide) has occurred while \output is active
-[][] 
- []
-
-[4 <./amyloidosis.png>])
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 16.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 17.47421pt
+Extra height:343.0pt when 478.62721pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 18.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 19.47421pt
+Extra height:343.0pt when 479.62721pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:10.0pt when 20.47421pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Extra height:0.0pt when 21.47421pt
+Extra height:343.0pt when 480.62721pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(2)Left:21.47421pt Right:10.0pt Output:21.47421pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 481.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 482.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 483.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 484.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 485.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 486.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 487.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 488.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 489.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 490.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 491.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 492.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 493.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 494.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 495.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 496.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 497.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 498.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 499.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 500.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 501.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 502.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 503.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 504.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 505.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:343.0pt when 506.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 507.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 508.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 509.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 510.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 511.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 512.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 513.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 514.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 515.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 516.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:307.0pt when 517.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 518.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 519.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 520.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 521.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 522.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 523.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 524.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 525.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 526.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 527.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:296.0pt when 528.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 529.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 530.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 531.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 532.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 533.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 534.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 535.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 536.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 537.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 538.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 539.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 540.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 541.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 542.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 543.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 544.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 545.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 546.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 547.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 548.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 549.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:285.0pt when 550.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 551.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 552.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 553.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 554.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 555.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 556.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 557.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 558.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 559.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 560.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:263.0pt when 561.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 562.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 563.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 564.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 565.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 566.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 567.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 568.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 569.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 570.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 571.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 572.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 573.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 574.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 575.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 576.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 577.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 578.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 579.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 580.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 581.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 582.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:252.0pt when 583.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 584.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 585.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 586.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 587.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 588.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 589.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 590.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 591.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 592.62721pt
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Extra height:230.0pt when 593.62721pt
+Extra height:0.0pt when 594.62721pt
+(2)Left:594.62721pt Right:343.0pt Output:594.62721pt
 - LAST -
 Extra skip:0.0pt
-Left:21.47421pt
-Right:10.0pt
-Output:21.47421pt
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+Left:594.62721pt
+Right:343.0pt
+Output:594.62721pt
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -605,9 +1276,7 @@ Overfull \hbox (261.0pt too wide) has occurred while \output is active
 
 Overfull \vbox (1.0pt too high) has occurred while \output is active []
 
- [5
-
-]
+ [5]
 (./kboom-mini.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -615,36 +1284,38 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 3522 strings out of 495028
- 45585 string characters out of 6181473
- 112031 words of memory out of 5000000
- 6617 multiletter control sequences out of 15000+600000
- 50544 words of font info for 109 fonts, out of 8000000 for 9000
- 18 hyphenation exceptions out of 8191
- 38i,13n,28p,945b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/opt/local/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</opt/local/share
-/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb></opt/local/share
-/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></opt/local/share/
-texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/local/share/texmf-
-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></opt/local/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmmi9.pfb></opt/local/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmmib10.pfb></opt/local/share/texmf-texlive/fonts/ty
-pe1/public/amsfonts/cm/cmr6.pfb></opt/local/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmr7.pfb></opt/local/share/texmf-texlive/fonts/type1/public/ams
-fonts/cm/cmr9.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/c
-m/cmsy6.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy
-8.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-</opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-</opt/local/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/local
-/share/texmf-texlive/fonts/type1/urw/helvetic/uhvbo8a.pfb></opt/local/share/tex
-mf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/local/share/texmf-texlive/
-fonts/type1/urw/helvetic/uhvro8a.pfb></opt/local/share/texmf-texlive/fonts/type
-1/urw/times/utmb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/ut
-mr8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on kboom-mini.pdf (5 pages, 383800 bytes).
+ 4473 strings out of 492649
+ 61633 string characters out of 6129622
+ 158806 words of memory out of 5000000
+ 8221 multiletter control sequences out of 15000+600000
+ 50856 words of font info for 106 fonts, out of 8000000 for 9000
+ 1145 hyphenation exceptions out of 8191
+ 41i,25n,33p,945b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2018/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf
+-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2018/texmf-dist/
+fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
+ype1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/u
+rw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on kboom-mini.pdf (5 pages, 561933 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2,6 +2,7 @@
 %\documentclass{article}
 \usepackage{url}
 
+\usepackage[]{algorithm2e}
 
 \ifx\pdfoutput\undefined
 % we are running LaTeX, not pdflatex
@@ -474,6 +475,62 @@ and EFO\cite{malone2010modeling}. Additionally, we apply on other
 domains such as anatomy and compare to gold standards such as Uberon.
 
 
+\subsection{Future Plans}
+\subsubsection{Tree Search Algorithm (POETS)}
+
+Here we propose a tree search approach, as an alternative way to
+search the space of $2^|H|$ possible solutions. This can either be
+used on $O^P$ directly, or in combination with a modularization
+approach. We call this POETS (Probabilistic Ontology Entailment Tree
+Search).
+
+Each combination of hypothetical axioms constitutes a ‘possible
+world’. We represent each possible world as a node in a tree. The root
+node of the tree is the empty set, i.e. no hypothetical axioms are
+assumed either true or false. We greedily explore outwards from each
+node, assuming a new hypothetical axiom each time. At each node we
+will compute the entailed logical axioms, and use them to calculate
+posterior probability.
+
+Search is terminated after some amount of time, and the most likely
+leaf node is selected (if there are no leaf nodes with $P>0$ then
+there is the option of selecting further or simply returning
+incomplete results).
+
+\begin{algorithm}
+ $O^P = \langle A,H \rangle$\;
+\Begin{
+    $W \longleftarrow [ \{ \} ]$  \emph{list of partially instantiated worlds to be expanded}\;
+    \emph{where $W \subset \mathcal{P}( \{ H_i = V : H_i \in H, V \in \{\text{True}, \text{False}\}  \})$}\;
+    $X \longleftarrow [  ]$      \emph{list of fully instantiated worlds}\;
+    \While{$|W| > 0$}{
+      $w = \text{shift}(W)$  \emph{take next world}\;
+      $W‘ = [ ]$       \emph{child worlds of w, each world will select a new axioms from H}\;
+      \For{$H_i \in H$}{
+        \If{$(H_i, \_) \notin w$}{
+          \For{$V \in  \{ \text{True}, \text{False} \} $}{
+            $w‘ = w + (H_i,V)$ \;
+            $\text{Pr}(w‘) = \text{CalcPosteriorProb}(H_i=V, w)$ \;
+            $W‘ = W‘ + w‘$ \emph{add new child node} \;
+          }
+          $W' \longleftarrow \text{Sort}(W‘)$ \emph{sort by probability, descending, removing zero probabilities} \;
+          $W \longleftarrow W‘ + W$  \emph{Prepend W’ to W, i.e depth-first search} \;
+        }
+      }
+    }
+    \If{$W‘ == \emptyset$}{
+      $X = X +  [w]$ \;
+    }
+    Return $\operatorname{arg\,max}_{w \in X} \text{Pr}(w)$  \emph{Return all worlds with maximal probability} \;
+  }
+  Function $\text{CalcPosteriorProb}(H_i=V, n):$ \;
+  \Begin{
+      $E = Reason( A + n + [(H_i=V)] )$ \;
+      $Pr = \begin{cases} 0 & \text{if } \text{unsat}(E)\\  \text{Pr}(n) * \text{Pr}(H_i=V) & \text{otherwise} \end{cases} $ \;
+      Return $Pr$ \;
+    }
+  \caption{POETS}
+\end{algorithm}
 
 
 % Do NOT remove this, even if you are not including acknowledgments
